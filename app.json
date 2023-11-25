@@ -25,6 +25,14 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "apiKey":"AIzaSyAxykY-9OEWVmOR-Q4ON1g9ezV5kPwqhhA",
+      "authDomain": "book-3de54.firebaseapp.com",
+      "projectId":  "book-3de54",
+      "storageBucket": "book-3de54.appspot.com",
+      "messagingSenderId":"855079062104",
+      "appId": "1:855079062104:web:4f245520f60b0c67f8d82d"
     }
   }
 }
